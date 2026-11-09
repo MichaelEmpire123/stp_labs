@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="classesss/classesss.csproj" Id="15e92d48-6a5a-41c2-a938-5ce98cdfc4bc" />
+  <Project Path="classesss2/classesss2.csproj" Id="145d06de-47e3-46ae-b34a-a6fa39c0d9d6" />
+  <Project Path="nasledovanie/nasledovanie.csproj" Id="2ebce3dd-7a05-49b0-a289-746da6e8b33a" />
+  <Project Path="p2/p2.csproj" />
+  <Project Path="pr3/pr3.csproj" />
+  <Project Path="pr4/pr5.csproj" Id="97791d57-02c0-43fb-ba5d-cb7f9980b432" />
+  <Project Path="pr6/pr6.csproj" Id="47c362b2-4c26-4d8c-9a83-68fc65a514df" />
+  <Project Path="pr7/pr7.csproj" Id="3bd39e33-d30b-4bc1-b978-3853fa89e18e" />
+  <Project Path="pr8.4/pr8.4.csproj" Id="f3227490-1563-41d7-b21d-cea4f33e9b66" />
+  <Project Path="pr8/pr8.csproj" Id="b5d652c0-bfdd-4fce-b936-97625f379033" />
+</Solution>
